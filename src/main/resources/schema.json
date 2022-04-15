@@ -1,0 +1,286 @@
+{
+	"artObject": {
+		"links": {
+			"search": "http://www.rijksmuseum.nl/api/nl/collection"
+		},
+		"id": "nl-BK-15613",
+		"priref": "249694",
+		"objectNumber": "BK-15613",
+		"language": "nl",
+		"title": "Haarlemse ontvangstkamer 1794",
+		"copyrightHolder": null,
+		"webImage": {
+			"guid": "65fc2221-c6d7-4863-b7d4-ca39dbcad3e3",
+			"offsetPercentageX": 50,
+			"offsetPercentageY": 50,
+			"width": 2500,
+			"height": 1875,
+			"url": "https://lh6.ggpht.com/d8aPf4-PukU3BjWLFVXjqFcQHqa1A-gQP4ARaj3NsuH-a2pIQpLqJ-PtwE5s6lkhSkrbYOuwFOf7eFhCtnCT-k3irOuF=s0"
+		},
+		"colors": [{
+				"percentage": 37,
+				"hex": "#9A8770"
+			},
+			{
+				"percentage": 26,
+				"hex": " #D8C18F"
+			},
+			{
+				"percentage": 18,
+				"hex": " #906346"
+			},
+			{
+				"percentage": 12,
+				"hex": " #533330"
+			},
+			{
+				"percentage": 2,
+				"hex": " #140F0F"
+			},
+			{
+				"percentage": 1,
+				"hex": " #5E5F5E"
+			},
+			{
+				"percentage": 0,
+				"hex": " #F5F3DF"
+			}
+		],
+		"colorsWithNormalization": [{
+				"originalHex": "#9A8770",
+				"normalizedHex": "#E0CC91"
+			},
+			{
+				"originalHex": " #D8C18F",
+				"normalizedHex": "#E0CC91"
+			},
+			{
+				"originalHex": " #906346",
+				"normalizedHex": "#B35A1F"
+			},
+			{
+				"originalHex": " #533330",
+				"normalizedHex": "#981313"
+			},
+			{
+				"originalHex": " #140F0F",
+				"normalizedHex": "#000000"
+			},
+			{
+				"originalHex": " #5E5F5E",
+				"normalizedHex": "#737C84"
+			},
+			{
+				"originalHex": " #F5F3DF",
+				"normalizedHex": "#FBF6E1"
+			}
+		],
+		"normalizedColors": [{
+				"percentage": 64,
+				"hex": "#D2B48C"
+			},
+			{
+				"percentage": 18,
+				"hex": " #A0522D"
+			},
+			{
+				"percentage": 12,
+				"hex": " #800000"
+			},
+			{
+				"percentage": 2,
+				"hex": " #000000"
+			},
+			{
+				"percentage": 1,
+				"hex": " #696969"
+			},
+			{
+				"percentage": 0,
+				"hex": " #F5F5DC"
+			}
+		],
+		"normalized32Colors": [{
+				"percentage": 64,
+				"hex": "#E0CC91"
+			},
+			{
+				"percentage": 18,
+				"hex": " #B35A1F"
+			},
+			{
+				"percentage": 12,
+				"hex": " #981313"
+			},
+			{
+				"percentage": 2,
+				"hex": " #000000"
+			},
+			{
+				"percentage": 1,
+				"hex": " #737C84"
+			},
+			{
+				"percentage": 0,
+				"hex": " #FBF6E1"
+			}
+		],
+		"titles": [
+			"Betimmering afkomstig uit het interieur van het pand Nieuwe Gracht 74 te Haarlem"
+		],
+		"description": "Betimmering afkomstig uit het interieur van het pand Nieuwe Gracht 74 te Haarlem; het is geschilderd in blauwgrijs, lichtgroen en wit op eikenhout en bestaat uit meerdere onderdelen, zie: BK-15613-a/f. Voor de onderdelen van het bijbehorende ameublement zie: BK-15614, BK-15615-a/p en BK-15616-a/b. De betimmering werd uitgevoerd in opdracht van Willem Philip Kops, vermoedelijk naar ontwerp van Abraham van der Hart. Verdere onderdelen: vloerkleed, zijden gordijnen, kristallen kroon en luchters.",
+		"labelText": null,
+		"objectTypes": [
+			"interieuronderdeel",
+			"bouwfragment",
+			"betimmering"
+		],
+		"objectCollection": [
+			"meubelen",
+			"bouwfragmenten",
+			"interieuronderdelen"
+		],
+		"makers": [
+
+		],
+		"principalMakers": [{
+			"name": "Abraham van der Hart",
+			"unFixedName": "Hart, Abraham van der",
+			"placeOfBirth": null,
+			"dateOfBirth": "1747-05-27",
+			"dateOfBirthPrecision": null,
+			"dateOfDeath": "1820-02-01",
+			"dateOfDeathPrecision": null,
+			"placeOfDeath": "Amsterdam",
+			"occupation": [
+				"tekenaar",
+				"architect"
+			],
+			"roles": [
+				"ontwerper"
+			],
+			"nationality": null,
+			"biography": null,
+			"productionPlaces": [
+				"Amsterdam"
+			],
+			"qualification": null,
+			"labelDesc": "Abraham van der Hart (27-mei-1747 - 01-feb-1820), Amsterdam"
+		}],
+		"plaqueDescriptionDutch": "De inrichting van deze kamer is afkomstig uit het huis van de koopman en kunstverzamelaar Willem Philip Kops, aan de Nieuwe Gracht 74 in Haarlem. Deze kamer werd  waarschijnlijk gebruikt voor avondontvangsten. Hij is op het stucplafond na nog geheel intact. Abraham van der Hart, de stadsarchitect van Amsterdam, maakte er een volledig classicistisch interieur van, waarin alle onderdelen op elkaar zijn afgestemd.  De schoorsteenmantel komt vermoedelijk uit Italië, het vloerkleed uit Doornik, het ameublement uit Amsterdam, de zijden bespanningen en bekledingen uit het Franse Lyon, en de glazen kroon en kandelabers uit Engeland.   ",
+		"plaqueDescriptionEnglish": "This interior is from the home of merchant and art collector Willem Philip Kops, at Nieuwe Gracht 74 in Haarlem. The room was probably used for evening receptions. It is complete, except for the stucco ceiling. Abraham van der Hart, Amsterdam’s municipal architect, created a complete neoclassical interior, each element aligned with the rest. The mantelpiece probably comes from Italy, the carpet from Doornik, the furniture from Amsterdam, the silk hangings and upholstery from Lyons in France, and the crystal chandelier and sconces from England. ",
+		"principalMaker": "Abraham van der Hart",
+		"artistRole": null,
+		"associations": [
+
+		],
+		"acquisition": {
+			"method": "aankoop",
+			"date": "1945-01-01T00:00:00",
+			"creditLine": null
+		},
+		"exhibitions": [
+
+		],
+		"materials": [
+			"eikenhout"
+		],
+		"techniques": [
+
+		],
+		"productionPlaces": [
+			"Amsterdam"
+		],
+		"dating": {
+			"presentingDate": "ca. 1793 - ca. 1795",
+			"sortingDate": 1793,
+			"period": 18,
+			"yearEarly": 1793,
+			"yearLate": 1795
+		},
+		"classification": {
+			"iconClassIdentifier": [
+				"48A98"
+			],
+			"iconClassDescription": [
+				"ornaments ~ art"
+			],
+			"motifs": [
+
+			],
+			"events": [
+
+			],
+			"periods": [
+
+			],
+			"places": [
+				"Nieuwe Gracht"
+			],
+			"people": [
+				"Kops, Willem Philip"
+			],
+			"objectNumbers": [
+				"BK-15613"
+			]
+		},
+		"hasImage": true,
+		"historicalPersons": [
+			"Kops, Willem Philip"
+		],
+		"inscriptions": [
+
+		],
+		"documentation": [
+			"Coert Peter Krabbe & Hillie Smit, Het huis van de burgemeester : Herengracht 502 in Amsterdam, Bussum 2011, afb. p. 50.",
+			"R.J. Baarsen, 'French upholsterers in Amsterdam', Furniture History 21 (1985), p.48-54, afb. 3.",
+			"Th.H. Lunsingh Scheurleer, 'Een Louis XVI-interieur voor het Rijksmuseum', Phoenix, 1948, p. 29",
+			"Documentatiemap."
+		],
+		"catRefRPK": [
+
+		],
+		"principalOrFirstMaker": "Abraham van der Hart",
+		"dimensions": [
+
+		],
+		"physicalProperties": [
+
+		],
+		"physicalMedium": "eikenhout",
+		"longTitle": "Haarlemse ontvangstkamer 1794, Abraham van der Hart, ca. 1793 - ca. 1795",
+		"subTitle": "",
+		"scLabelLine": "Haarlem en Amsterdam, ca. 1793-1795, naar ontwerp van Abraham van der Hart (1747-1820), geschilderd en verguld hout, gebrocheerde zijde, wol, Carrara-marmer, geslepen glas",
+		"label": {
+			"title": "Haarlemse ontvangstkamer 1794",
+			"makerLine": "Haarlem en Amsterdam, ca. 1793-1795, naar ontwerp van Abraham van der Hart (1747-1820), geschilderd en verguld hout, gebrocheerde zijde, wol, Carrara-marmer, geslepen glas",
+			"description": "Deze kamer werd gebouwd en ingericht voor de koopman en kunstverzamelaar Willem Philip Kops, als uitbreiding van zijn huis aan de Nieuwe Gracht 74 in Haarlem. De kamer is nog geheel intact, alleen het oorspronkelijke stucplafond is verloren gegaan. Abraham van der Hart, de stadsarchitect van Amsterdam, maakte er een volledig classicistisch interieur van, waarin alle onderdelen op elkaar zijn afgestemd. Daarbij moet hij hulp hebben gehad van een gespecialiseerd behangersbedrijf dat de goederen bestelde en de inrichting coördineerde. De schoorsteenmantel komt vermoedelijk uit Italië, het vloerkleed uit de Vlaamse stad Doornik, het ameublement uit Amsterdam, de zijden bespanningen en bekledingen uit het Franse Lyon, en de glazen kroon en kandelabers uit Engeland. De kamer werd vermoedelijk alleen gebruikt bij grote avondontvangsten.",
+			"notes": "Multimediatour",
+			"date": "2018-02-03"
+		},
+		"showImage": true,
+		"location": "HG-1.7"
+	},
+	"artObjectPage": {
+		"id": "nl-BK-15613",
+		"similarPages": [
+
+		],
+		"lang": "nl",
+		"objectNumber": "BK-15613",
+		"tags": [
+
+		],
+		"plaqueDescription": "De inrichting van deze kamer is afkomstig uit het huis van de koopman en kunstverzamelaar Willem Philip Kops, aan de Nieuwe Gracht 74 in Haarlem. Deze kamer werd  waarschijnlijk gebruikt voor avondontvangsten. Hij is op het stucplafond na nog geheel intact. Abraham van der Hart, de stadsarchitect van Amsterdam, maakte er een volledig classicistisch interieur van, waarin alle onderdelen op elkaar zijn afgestemd.  De schoorsteenmantel komt vermoedelijk uit Italië, het vloerkleed uit Doornik, het ameublement uit Amsterdam, de zijden bespanningen en bekledingen uit het Franse Lyon, en de glazen kroon en kandelabers uit Engeland.   ",
+		"audioFile1": null,
+		"audioFileLabel1": null,
+		"audioFileLabel2": null,
+		"createdOn": "0001-01-01T00:00:00",
+		"updatedOn": "0001-01-01T00:00:00",
+		"adlibOverrides": {
+			"titel": null,
+			"maker": null,
+			"etiketText": null
+		}
+	}
+}
