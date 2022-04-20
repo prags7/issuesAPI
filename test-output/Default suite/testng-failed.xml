@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Museum.RestApi">
+      <class name="IssueAPI.GitLabIssue">
         <methods>
           <include name="beforeClass"/>
-          <include name="validate_Schema"/>
+          <include name="listAllIssues"/>
         </methods>
-      </class> <!-- Museum.RestApi -->
+      </class> <!-- IssueAPI.GitLabIssue -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
